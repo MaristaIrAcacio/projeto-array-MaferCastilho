@@ -1,0 +1,28 @@
+#botao{
+    background-color: aqua;
+}
+
+body{
+    background-color: rgb(153, 241, 227);
+    border-style: groove;
+    border-width:2px;
+    border-right: 50px;
+}
+
+#lista{
+    text-align: center;
+    list-style-image: url('https://i.stack.imgur.com/5kI3v.png');
+    width: 10%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#container{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+#estilo{
+    text-align: center;
+}
